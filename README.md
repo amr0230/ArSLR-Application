@@ -33,6 +33,8 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 > - Time
 > - Pymysql
 
+> I used XAMPP that is one of the widely used cross-platform web servers, to help a local host or server to test its website and clients via computers and laptops before releasing it to the main server. It is a platform that furnishes a suitable environment to test and verify the working of projects based on Apache, Perl, MySQL database, and PHP through the system of the host itself.
+
 # System Interfaces
 
 > ## Login Interface:
