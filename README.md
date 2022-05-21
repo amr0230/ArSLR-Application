@@ -17,5 +17,12 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 
 ![image](https://user-images.githubusercontent.com/65462055/169630880-592dc17a-84fb-4d86-8f01-7449dbe24908.png)
 
+# System Interfaces
+
+> ## Login Form:
+> 
+![Login](https://user-images.githubusercontent.com/65462055/169632727-d69d5266-dd31-4b06-85b7-50b03850e91c.png)
+
+> ## 
 
 
