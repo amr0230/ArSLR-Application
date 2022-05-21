@@ -19,10 +19,21 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 
 # System Interfaces
 
-> ## Login Form:
-> 
-![Login](https://user-images.githubusercontent.com/65462055/169632727-d69d5266-dd31-4b06-85b7-50b03850e91c.png)
+> ## Login Interface:
 
-> ## 
+![Login](https://user-images.githubusercontent.com/65462055/169636082-267f3e6f-92cd-4117-bd26-0291dcdaa20a.png)
+
+> ## Registration Interface:
+
+![Registration](https://user-images.githubusercontent.com/65462055/169636111-7744c23d-327d-4efd-a2ed-6139edc92a7e.png)
+
+> ## Hand Sign Recognition Interface:
+
+![Applicaiton_Interface](https://user-images.githubusercontent.com/65462055/169636173-155ac464-3ae4-4560-8b70-4142382837eb.png)
+
+![Predict](https://user-images.githubusercontent.com/65462055/169636175-78b18bc6-3fad-4696-8fba-cb0772f5d802.png)
+
+
+
 
 
