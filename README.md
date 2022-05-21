@@ -33,7 +33,21 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 
 ![Predict](https://user-images.githubusercontent.com/65462055/169636175-78b18bc6-3fad-4696-8fba-cb0772f5d802.png)
 
+> ## User Management System Interface:
 
+![UMS](https://user-images.githubusercontent.com/65462055/169636218-8d7e5ff4-91a8-46ba-9b3d-6ac1de95dc9e.png)
+
+> ## Forget Passwrod Interface:
+
+![ForgetPW](https://user-images.githubusercontent.com/65462055/169636260-e9fae786-6fd6-4776-ba5c-425f4291ca59.png)
+
+# Conclusion:
+
+> This proposed system has been presented, described and evaluated successfully. After developing its functions, we conclude that it satisfies the requirements and the objectives correctly as intended. And accordingly we have some observations concerning algorithms that we have used, we have used Support Vector Machine (SVM) and K-Nearest Neighbors (KNN) algorithms. In this case we have found that the overall classification results using SVM is 89%, while the overall classification results using KNN is 84% (as shown in the picture below).
+
+![image](https://user-images.githubusercontent.com/65462055/169636394-c07a4965-0954-4731-9b90-3387ebf95ff0.png)
+
+> It underlines that the SVM classifier obtains more accurate results than KNN. It demonstrates that the non-linear classifier (SVM) has significantly played an important role in computing and improving the linear separation between the gestures of the Arabic language characters. 
 
 
 
