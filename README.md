@@ -17,6 +17,22 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 
 ![image](https://user-images.githubusercontent.com/65462055/169630880-592dc17a-84fb-4d86-8f01-7449dbe24908.png)
 
+# Coding Programming Languages
+
+> To develop this system, I have used the Python programming language. In particular, the system uses Python to read and prepare the image, and I used Python to design system tasks such as logging into the system.
+
+> Important Python libraries needed to operate this system:
+> - NumPy
+> - Scikit-Learn
+> - Matplotlib
+> - OpenCV
+> - Joblib
+> - Random
+> - Tkinter
+> - PIL
+> - Time
+> - Pymysql
+
 # System Interfaces
 
 > ## Login Interface:
