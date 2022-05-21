@@ -15,8 +15,7 @@ In total, around 14,000 samples of the 28 Arabic alphabetic signs have been used
 # Dataset
 > The first step is to collect dataset for the 28 Arabic alphabet signs. We need a lot images for each alphabet, this dataset is somewhat hard to collect but thank for University Malaysia Sarawak, Prince Mohammad Bin Fahd University for their dataset. They made a fully labeled dataset consists of 54,049 images of ArSLR alphabets performed by more than 40 volunteers for 32 standard Arabic signs and alphabets (as shown in the picture below).
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/65462055/169630880-592dc17a-84fb-4d86-8f01-7449dbe24908.png)
-</p>
+
 
 
